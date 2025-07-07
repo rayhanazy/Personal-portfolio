@@ -39,15 +39,15 @@ Welcome to my **Personal Portfolio Website**, a modern and responsive website to
 
 You can run this project on your local device easily.
 ```
-### Step 1: Clone the Repository
+Step 1: Clone the Repository
 
 git clone https://github.com/rayhanazy/Personal-portfolio.git
 
-### Step 2: Navigate to the Project Folder
+Step 2: Navigate to the Project Folder
 
 cd Personal-portfolio
 
-### Step 3: Open in Browser
+Step 3: Open in Browser
 
 - Double-click on index.html
 
