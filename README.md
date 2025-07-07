@@ -54,7 +54,7 @@ cd Personal-portfolio
 or
 
 - Use Live Server in Visual Studio Code for auto-refresh during development.
-
+```
 
 ### 🎉 Thank you for visiting this repository!  
 Feel free to explore or fork the project — I hope it inspires your own web creations.  
