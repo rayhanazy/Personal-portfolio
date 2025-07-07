@@ -55,3 +55,5 @@ or
 
 - Use Live Server in Visual Studio Code for auto-refresh during development.
 
+
+### Thank you for visiting my portfolio repository. I hope this project inspires or helps you in some way. Feedback and suggestions are always welcome!
