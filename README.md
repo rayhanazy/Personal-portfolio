@@ -11,8 +11,6 @@ Welcome to my **Personal Portfolio Website**, a modern and responsive website to
 
 ---
 
-![Website Preview](https://raw.githubusercontent.com/rayhanazy/Personal-portfolio/main/assets/images/preview-home.png)
-
 ## ✨ Features
 
 - Responsive design for desktop and mobile
