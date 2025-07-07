@@ -50,6 +50,8 @@ cd Personal-portfolio
 ### Step 3: Open in Browser
 
 - Double-click on index.html
+
 or
-Use Live Server in Visual Studio Code for auto-refresh during development.
+
+- Use Live Server in Visual Studio Code for auto-refresh during development.
 
